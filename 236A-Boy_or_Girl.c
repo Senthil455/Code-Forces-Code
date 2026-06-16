@@ -13,9 +13,9 @@ int main(){
         }
     }
     if(distinct%2==0){
-        printf("CHAT");
+        printf("CHAT WITH HER!");
     }else{
-        printf("IGNORE");
+        printf("IGNORE HIM!");
     }
     return 0;
 }
