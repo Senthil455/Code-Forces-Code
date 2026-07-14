@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
-- [math](#math) (1)
+- [greedy](#greedy) (2)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
@@ -23,12 +24,20 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.c) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.c) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.c) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.c) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.c) |
 
 ### strings
 
