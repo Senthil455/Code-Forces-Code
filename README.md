@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
@@ -24,6 +25,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.c) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.c) |
 
 ### greedy
 
