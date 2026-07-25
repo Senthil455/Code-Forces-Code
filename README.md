@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [dp](#dp) (1)
+- [greedy](#greedy) (2)
 - [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
 ---
@@ -30,12 +32,20 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.c) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
 
 ### math
@@ -44,6 +54,12 @@
 |---|---------|------------|----------|
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.c) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
 
 ### sortings
 
