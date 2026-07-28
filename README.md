@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 8 |
 
 ---
 
@@ -16,9 +16,10 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [math](#math) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -55,6 +56,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.c) |
 | 2208A | [Bingo Candies](https://codeforces.com/contest/2208/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2208/A%20-%20Bingo%20Candies/solution.c) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.c) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
@@ -70,6 +72,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.c) |
 
 ---
 
