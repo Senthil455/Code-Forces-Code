@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 8 |
+| 9 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
@@ -27,6 +27,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.c) |
 | 2182B | [New Year Cake](https://codeforces.com/contest/2182/problem/B) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2182/B%20-%20New%20Year%20Cake/solution.c) |
 | 2205A | [Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2205/A%20-%20Simons%20and%20Making%20It%20Beautiful/solution.c) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.c) |
