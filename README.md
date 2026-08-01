@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 8 |
+| 10 | 9 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -53,6 +54,12 @@
 |---|---------|------------|----------|
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 16A | [Flag](https://codeforces.com/contest/16/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/16/A%20-%20Flag/solution.c) |
 
 ### math
 
