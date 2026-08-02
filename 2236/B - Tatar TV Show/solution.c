@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int main() {
     int t;
     scanf("%d", &t);
@@ -16,8 +16,7 @@ int main() {
             }
             if (parity) ok = 0;
         }
-        printf("%s
-", ok ? "YES" : "NO");
+        printf("%s\n", ok ? "YES" : "NO");
     }
     return 0;
 }
