@@ -6,23 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 11 |
+| 12 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
-- [games](#games) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (10)
-- [math](#math) (8)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
-- [schedules](#schedules) (1)
-- [sortings](#sortings) (2)
-- [strings](#strings) (7)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -30,10 +28,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.c) |
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/231/A%20-%20Team/solution.c) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 2182B | [New Year Cake](https://codeforces.com/contest/2182/problem/B) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2182/B%20-%20New%20Year%20Cake/solution.c) |
 | 2205A | [Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2205/A%20-%20Simons%20and%20Making%20It%20Beautiful/solution.c) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.c) |
@@ -53,50 +48,28 @@
 |---|---------|------------|----------|
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
 
-### games
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.c) |
-
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/231/A%20-%20Team/solution.c) |
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
-| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.c) |
-| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.c) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 12A | [Super Agent](https://codeforces.com/contest/12/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/12/A%20-%20Super%20Agent/solution.c) |
 | 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/14/A%20-%20Letter/solution.c) |
 | 16A | [Flag](https://codeforces.com/contest/16/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/16/A%20-%20Flag/solution.c) |
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
-| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/158/A%20-%20Next%20Round/solution.c) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
-| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.c) |
-| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
-| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.c) |
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
-| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
-| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
-| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/617/A%20-%20Elephant/solution.c) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.c) |
 | 2208A | [Bingo Candies](https://codeforces.com/contest/2208/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2208/A%20-%20Bingo%20Candies/solution.c) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.c) |
-| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.c) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
 
 ### number theory
@@ -105,30 +78,17 @@
 |---|---------|------------|----------|
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.c) |
 
-### schedules
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.c) |
-
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.c) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.c) |
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
-| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.c) |
-| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [GNU C11](https://github.com/Senthil455/Code-Forces-Code/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.c) |
 
 ---
 
